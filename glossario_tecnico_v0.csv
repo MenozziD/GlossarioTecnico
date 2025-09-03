@@ -1,0 +1,28 @@
+Termine IT;Traduzione EN;Traduzione DE;Traduzione FR;Categoria;Note
+Valvola pneumatica;Pneumatic valve;Pneumatisches Ventil;Vanne pneumatique;Componenti;Controllo dell'aria compressa
+Sensore di pressione;Pressure sensor;Drucksensor;Capteur de pression;Strumentazione;Misura della pressione nei tubi
+PLC;PLC;SPS;API;Controllo;Controllore logico programmabile
+Motore elettrico;Electric motor;Elektromotor;Moteur électrique;Attuatori;Genera movimento meccanico
+Inverter;Inverter;Frequenzumrichter;Variateur de fréquence;Controllo;Regola la velocità del motore
+Trasportatore;Conveyor;Förderband;Convoyeur;Movimentazione;Trasporto di prodotti
+Interfaccia HMI;HMI interface;Bedienoberfläche;Interface HMI;Controllo;Interfaccia uomo-macchina
+Termocoppia;Thermocouple;Thermoelement;Thermocouple;Strumentazione;Misura della temperatura
+Cilindro pneumatico;Pneumatic cylinder;Pneumatikzylinder;Vérin pneumatique;Attuatori;Movimento lineare
+Valvola di sicurezza;Safety valve;Sicherheitsventil;Soupape de sécurité;Componenti;Protezione da sovrapressione
+Quadro elettrico;Electrical panel;Schaltschrank;Tableau électrique;Impianto;Distribuzione e controllo elettrico
+Relè;Relay;Relais;Relais;Componenti;Commutazione elettrica
+Contattore;Contactor;Schütz;Contacteur;Componenti;Controllo di potenza
+Encoder;Encoder;Encoder;Encodeur;Strumentazione;Misura della posizione o velocità
+Pompa dosatrice;Dosing pump;Dosierpumpe;Pompe doseuse;Dosaggio;Distribuzione precisa di liquidi
+Scambiatore di calore;Heat exchanger;Wärmetauscher;Échangeur de chaleur;Impianto;Trasferimento termico
+Filtro;Filter;Filter;Filtre;Componenti;Separazione di impurità
+Pressostato;Pressure switch;Druckschalter;Pressostat;Strumentazione;Interruttore a pressione
+Fotocellula;Photoelectric sensor;Lichtschranke;Cellule photoélectrique;Sensori;Rilevamento oggetti
+Trasduttore;Transducer;Wandler;Transducteur;Strumentazione;Conversione di segnali
+Pannello operatore;Operator panel;Bedienpanel;Panneau opérateur;Controllo;Interazione con l'impianto
+Linea di imbottigliamento;Bottling line;Abfülllinie;Ligne d'embouteillage;Impianto;Processo di confezionamento
+Sistema SCADA;SCADA system;SCADA-System;Système SCADA;Controllo;Supervisione e acquisizione dati
+Controllo PID;PID control;PID-Regelung;Contrôle PID;Controllo;Regolazione automatica
+Barriera fotoelettrica;Light curtain;Lichtvorhang;Rideau lumineux;Sicurezza;Protezione perimetrale
+Bilancella;Frame;Waage;Balancelle;Attuatori;Contenitore a piani per affettati
+Massaggiatore;Tumbler;Tumbler;Tumbler;Attuatori;Macchina massaggiatrice di carne
